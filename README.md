@@ -3,17 +3,17 @@
 
 ## clash使用教程：
 
-<a href="https://www.v2rayfree.eu.org/post/clash-for-windows-tutorial/" target="_blank">clash科学上网：clash for windows 详细教程</a>
+<a href="https://ggfbad.com/" target="_blank">clash科学上网：clash for windows 详细教程</a>
 
 ## clash订阅链接：
 
-<a href="https://github.com/aiboboxx/clashfree/blob/main/clash.yml" target="_blank">点击下载</a>
+<a href="[https://github.com/aiboboxx/clashfree/blob/main/clash.yml](https://ggfbad.com/)" target="_blank">点击下载</a>
 
 ## 更多clash节点订阅 ：
 
-高性价比机场推荐：<a href="https://kfyun.uk" target="_blank">快帆云</a>
+高性价比机场推荐：<a href="https://ggfbad.com/" target="_blank">rock云</a>
 
-### [快帆云](https://kfyun.uk) — 2024 最佳机场之选
+### [rock云](https://ggfbad.com/) — 2024 最佳机场之选
 
 - 全球众多节点，8K不卡顿。
 - 解锁奈飞、迪士尼、TikTok 、ChatGPT。
@@ -21,7 +21,7 @@
 - 不限登陆设备数，不设置每日封顶流量。
 - 按流量付费、包月等多种套餐可选，价格便宜。
 
-更多推荐：<a href="https://github.com/aiboboxx/kexueshangwang" target="_blank">免费科学上网</a>   <a href="https://clashgithub.com" target="_blank">免费clash节点</a>   <a href="https://github.com/aiboboxx/v2rayfree" target="_blank">免费v2ray节点</a>   [一元机场](https://yiyuanbar.org)
+更多推荐：<a href="https://ggfbad.com/" target="_blank">免费科学上网</a>   <a href="https://ggfbad.com/" target="_blank">免费clash节点</a>   <a href="https://ggfbad.com/" target="_blank">免费v2ray节点</a>   [一元机场](https://ggfbad.com/)
 
 
 ## 免费clash节点分享
@@ -43,7 +43,7 @@ dns:
     - tls://1.0.0.1:853
     - tls://dns.google:853
 proxies:
-  - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false, udp: true}
+  - {name: 🇬🇧 高性价比机场:https://ggfbad.com, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false, udp: true}
   - {name: 🇨🇳 广东省佛山市 移动, server: 183.232.199.28, port: 15600, client-fingerprint: chrome, type: vmess, uuid: aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaad, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
   - {name: 🇺🇸 美国 CloudFlare节点, server: cfcdn1.sanfencdn9.com, port: 2052, client-fingerprint: chrome, type: vmess, uuid: aec82fa6-ab70-4d0a-e7fb-422ef729d961, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: helanv6cf.inekokkk.top}}, udp: true}
   - {name: 🇺🇸 美国 CloudFlare节点 2, server: 172.67.172.219, port: 8080, client-fingerprint: chrome, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: oiictw.yydsii.com}}, udp: true}
@@ -81,7 +81,7 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇬🇧 高性价比机场:https://ggfbad.com
       - 🇨🇳 广东省佛山市 移动
       - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 2
@@ -118,7 +118,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇬🇧 高性价比机场:https://ggfbad.com
       - 🇨🇳 广东省佛山市 移动
       - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 2
@@ -156,7 +156,7 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇬🇧 高性价比机场:https://ggfbad.com
       - 🇨🇳 广东省佛山市 移动
       - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 2
@@ -206,7 +206,7 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇬🇧 高性价比机场:https://ggfbad.com
       - 🇨🇳 广东省佛山市 移动
       - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 2
@@ -248,7 +248,7 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇬🇧 高性价比机场:https://ggfbad.com
       - 🇨🇳 广东省佛山市 移动
       - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 2
@@ -285,7 +285,7 @@ proxy-groups:
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇬🇧 高性价比机场:https://ggfbad.com
       - 🇨🇳 广东省佛山市 移动
       - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 2
@@ -323,7 +323,7 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇬🇧 高性价比机场:https://ggfbad.com
       - 🇨🇳 广东省佛山市 移动
       - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 2
@@ -370,7 +370,7 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇬🇧 高性价比机场:https://kfyun.uk
+      - 🇬🇧 高性价比机场:https://ggfbad.com
       - 🇨🇳 广东省佛山市 移动
       - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国 CloudFlare节点 2
